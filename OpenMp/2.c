@@ -6,7 +6,7 @@ int main()
 { 
 	int NoofRows, NoofCols, Vectorsize, i, j; 
 
-	printf("Read the matrix size no ofrows and columns and vectorsize\n"); 
+	printf("Read the matrix size no of rows and columns and vectorsize\n"); 
 	scanf("%d%d%d", &NoofRows, &NoofCols, &Vectorsize); 
 
 	int Matrix[NoofRows][NoofCols],Vector[Vectorsize], Result[Vectorsize];
